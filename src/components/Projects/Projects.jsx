@@ -1,21 +1,15 @@
 import React, {useState} from "react";
 import Project from "../Project/Project";
+import projectData from "./projectData.json";
 
 
-
-export const Projects = () => {
-  return (
+const Projects = () => {
+   (
 <div>
-
-<Project/>
-<Project/>
-<Project/>
-<Project/>
-<Project/>
-<Project/>
-
-</div>
-
+    {projectData.slice(0, 6).map((project, index) => (
+      <Project key={index} {...project} />
+    ))}
+  </div>
 
   )
 
