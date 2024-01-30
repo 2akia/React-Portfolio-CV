@@ -4,7 +4,11 @@ import React, {useState} from "react";
 
 
 export const Contact = () => {
-  return (<h1>Contact</h1>)
+  return (
+    <div>  <h1>Contact</h1> </div>
+  
+  
+  )
 
 };
 

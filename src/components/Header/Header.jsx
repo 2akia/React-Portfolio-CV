@@ -9,7 +9,7 @@ export const Navbar = () => {
     <nav className={styles.navbar} >
       <Link to="/" className={styles.title}>Jakia Sultana</Link>
       <div className={styles.menu}>
-        <img className={styles.menuBtn} src={getImageUrl("nav/menuIcon.png")} alt="menu-button" />
+        <img className={styles.menuBtn} src={getImageUrl(".\assets\screenshots\icons8-menu-50.png")} alt="menu-button" />
         <ul className={styles.menuItems}>
           <li>
             <Link to="/">About</Link>
