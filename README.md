@@ -62,10 +62,12 @@ The tools that have been added in this project:
 - Navigation with React Router
 - Contact links
 - Contact form for handling events
+- LinkedIn Profile with the new skills updated
 
 > [!URL]
 
 - [Deployed application](https://2akia.github.io/React-Portfolio-CV/)
+- [Git Hub repo](https://github.com/2akia/React-Portfolio-CV)
 
 Thank you for having a look.
 
