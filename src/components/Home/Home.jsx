@@ -1,11 +1,15 @@
 import React, {useState} from "react";
-
+import "./Home.css";
 
 
 export const Home = () => {
-  return (<>
-    <h1>Hello</h1>
-  </>)
+  return (
+  <div className="home-section">
+    <h1>Welcome to my Portfolio..</h1>
+
+    <p className="home-css">I am an enthusiastic front-end web developer with a certificate from the Edx Coding Boot Camp,<br></br> showcasing a dedication to honing coding skills. Although I have yet to secure formal employment,<br></br> my commitment to continuous learning and passion for web development positions me as a motivated and <br></br>proactive individual ready to embark on a professional coding career.</p>
+  </div>
+  );
 
 };
 
