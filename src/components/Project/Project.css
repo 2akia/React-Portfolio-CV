@@ -1,11 +1,9 @@
-
-
 .card {
     margin: 40px;
     width: 500px;
     height: 400px;
-    border-radius: 90px; 
-    
+    border-radius: 90px;
+
 }
 
 .card img {
@@ -21,3 +19,14 @@
 }
 
 
+@media screen and (max-width: 830px) {
+
+    .card {
+        margin-top: 250px;
+        width: 300px;
+        height: 400px;
+        border-radius: 90px;
+
+    }
+
+}

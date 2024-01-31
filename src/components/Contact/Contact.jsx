@@ -24,7 +24,7 @@ export const Contact = () => {
 
   return (
     <div>
-      <h1>Contact</h1>
+      <h1 className="h1-contact">Contact</h1>
       <form onSubmit={handleSubmit} className="contact-form">
         <label htmlFor="name">Name:</label>
         <input
