@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Work-Day-Scheduler",
+        "img_index": 0,
+        "description": "We were instructed to create a simple calendar application that allows a user to save events for each hour of the day.",
+        "deployed": "https://2akia.github.io/Work-Day-Scheduler/",
+        "github": ""
+    },
+    {
+        "name": "Bootstrap-Portfolio",
+        "img_index": 1,
+        "description": "We were instructed to create a simple calendar application that allows a user to save events for each hour of the day.",
+        "deployed": "https://2akia.github.io/Work-Day-Scheduler/",
+        "github": ""
+    },
+    {
+        "name": "",
+        "img_index": 2,
+        "description": "We were instructed to create a simple calendar application that allows a user to save events for each hour of the day.",
+        "deployed": "",
+        "github": ""
+    }
+]
